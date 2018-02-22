@@ -28,7 +28,8 @@
 		2.3.3 Waiting days
 		2.3.4 Neighborhood names
 		2.3.5 No-show class
-		2.3.6 Data wrangling overview
+	
+	2.4 Data wrangling overview
 	
 3. Exploratory Data Analysis [eda]
 	3.1. Exploring no-showing appointments [EDA_question1]
@@ -40,3 +41,17 @@ References [references]
 
 
 ----------------------------------------------------------
+## EDA:
+	3.2: Utilizar o método ".describe()" em um groupby.object... 
+
+
+## Conclusions:
+(Resumir as informações encontradas em itens... acredito que ficaria legal)
+-> Number of patients:
+-> General statistics...
+-> Distributions of waiting time... 
+(encher de gráficos interessantes).
+
+
+
+
