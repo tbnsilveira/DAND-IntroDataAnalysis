@@ -33,7 +33,10 @@
 	
 3. Exploratory Data Analysis [eda]
 	3.1. Exploring no-showing appointments [EDA_question1]
+		3.1.1. Waiting time between the scheduling and the appointment date
+		3.1.2. A return to assiduity
 	3.2. Exploring the patient profiles [EDA_question2]
+		3.2.1. 
 	
 4. Conclusions [conclusions]
 
